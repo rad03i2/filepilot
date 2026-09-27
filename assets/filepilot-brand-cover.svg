@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720"><rect width="1600" height="720" fill="#071A2D"/><text x="100" y="280" fill="white" font-size="112">FilePilot</text><text x="100" y="360" fill="#68F5D2" font-size="34">Preview. Organize. Undo.</text><text x="100" y="560" fill="white" font-size="28">Radwan Abdulhadi</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-labelledby="title desc">
+<title id="title">FilePilot project cover</title>
+<desc id="desc">Light route-board artwork showing files moving through preview and organized destinations.</desc>
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F3EA"/><stop offset="1" stop-color="#EEE8DA"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#18212C" flood-opacity=".10"/></filter>
+  <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#18212C" opacity=".06"/></pattern>
+</defs>
+<rect width="1600" height="640" fill="url(#paper)"/><rect width="1600" height="640" fill="url(#dots)"/>
+<circle cx="1460" cy="62" r="220" fill="#F6C453" opacity=".14"/><circle cx="1240" cy="640" r="250" fill="#36C9A7" opacity=".10"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <g transform="translate(108 92)">
+    <rect width="88" height="88" rx="26" fill="#FFFDF8" stroke="#D8D2C5" stroke-width="2"/>
+    <path d="M21 33h20l8 9h21v25H18V36a3 3 0 0 1 3-3z" fill="#3264FF" opacity=".13" stroke="#3264FF" stroke-width="3"/>
+    <path d="M28 56c10-15 19-19 31-8" fill="none" stroke="#FF6B4A" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 8"/>
+    <circle cx="28" cy="56" r="5" fill="#3264FF"/><circle cx="59" cy="48" r="5" fill="#36C9A7"/>
+  </g>
+  <text x="108" y="258" fill="#18212C" font-size="80" font-weight="760" letter-spacing="-3">FilePilot</text>
+  <text x="110" y="314" fill="#3264FF" font-size="25" font-weight="700" letter-spacing="3.5">PREVIEW · ORGANIZE · UNDO</text>
+  <text x="110" y="374" fill="#667085" font-size="25">Reversible file organization, planned before the filesystem changes.</text>
+  <g transform="translate(110 425)">
+    <rect width="126" height="40" rx="20" fill="#3264FF" opacity=".10"/><circle cx="20" cy="20" r="5" fill="#3264FF"/><text x="34" y="26" fill="#18212C" font-size="14" font-weight="700">LOCAL FIRST</text>
+    <rect x="140" width="154" height="40" rx="20" fill="#36C9A7" opacity=".12"/><circle cx="160" cy="20" r="5" fill="#36C9A7"/><text x="174" y="26" fill="#18212C" font-size="14" font-weight="700">REVERSIBLE FLOW</text>
+  </g>
+  <text x="110" y="552" fill="#18212C" font-size="22" font-weight="700">رضوان عبدالهادي</text>
+  <text x="110" y="582" fill="#667085" font-size="14" letter-spacing="1.6">A RADWAN ABD ALHADY AHMED PROJECT</text>
+</g>
+<g transform="translate(880 72)" filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif">
+  <rect width="596" height="496" rx="34" fill="#FFFDF8" stroke="#DDD6C7" stroke-width="2"/>
+  <text x="34" y="50" fill="#667085" font-size="12" font-weight="700" letter-spacing="2">ROUTEBOARD / FILE PLAN</text>
+  <rect x="34" y="72" width="528" height="1" fill="#E7E0D3"/>
+  <text x="38" y="112" fill="#18212C" font-size="13" font-weight="700">INBOX</text><text x="245" y="112" fill="#18212C" font-size="13" font-weight="700">PREVIEW</text><text x="454" y="112" fill="#18212C" font-size="13" font-weight="700">SORTED</text>
+  <rect x="34" y="136" width="148" height="58" rx="15" fill="#F7F3EA"/><text x="58" y="171" fill="#18212C" font-size="12" font-weight="650">report.pdf</text>
+  <rect x="34" y="215" width="148" height="58" rx="15" fill="#F7F3EA"/><text x="58" y="250" fill="#18212C" font-size="12" font-weight="650">photo.jpg</text>
+  <rect x="34" y="294" width="148" height="58" rx="15" fill="#F7F3EA"/><text x="58" y="329" fill="#18212C" font-size="12" font-weight="650">notes.md</text>
+  <path d="M182 165 C224 165 211 151 249 151 S281 165 314 165" fill="none" stroke="#3264FF" stroke-width="4" stroke-linecap="round" stroke-dasharray="4 9"/>
+  <path d="M182 244 C224 244 211 230 249 230 S281 244 314 244" fill="none" stroke="#FF6B4A" stroke-width="4" stroke-linecap="round" stroke-dasharray="4 9"/>
+  <path d="M182 323 C224 323 211 309 249 309 S281 323 314 323" fill="none" stroke="#36C9A7" stroke-width="4" stroke-linecap="round" stroke-dasharray="4 9"/>
+  <circle cx="258" cy="165" r="18" fill="#FFFDF8" stroke="#3264FF" stroke-width="3"/><circle cx="258" cy="244" r="18" fill="#FFFDF8" stroke="#FF6B4A" stroke-width="3"/><circle cx="258" cy="323" r="18" fill="#FFFDF8" stroke="#36C9A7" stroke-width="3"/>
+  <rect x="314" y="136" width="248" height="58" rx="15" fill="#3264FF" opacity=".09"/><text x="338" y="171" fill="#18212C" font-size="13" font-weight="700">Documents / report.pdf</text>
+  <rect x="314" y="215" width="248" height="58" rx="15" fill="#FF6B4A" opacity=".08"/><text x="338" y="250" fill="#18212C" font-size="13" font-weight="700">Images / photo.jpg</text>
+  <rect x="314" y="294" width="248" height="58" rx="15" fill="#36C9A7" opacity=".10"/><text x="338" y="329" fill="#18212C" font-size="13" font-weight="700">Documents / notes.md</text>
+  <rect x="34" y="388" width="528" height="72" rx="18" fill="#18212C"/><circle cx="61" cy="424" r="8" fill="#36C9A7"/><text x="82" y="418" fill="#FFFDF8" font-size="12" font-weight="700">MANIFEST READY</text><text x="82" y="438" fill="#AEB7C1" font-size="11">undo route recorded after successful apply</text>
+</g>
+<rect x="0" y="628" width="1600" height="12" fill="#3264FF"/><rect x="400" y="628" width="200" height="12" fill="#FF6B4A"/><rect x="600" y="628" width="200" height="12" fill="#36C9A7"/><rect x="800" y="628" width="200" height="12" fill="#F6C453"/>
+</svg>

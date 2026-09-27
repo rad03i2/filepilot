@@ -1,0 +1,43 @@
+name: Feature request
+description: Propose a focused improvement that fits FilePilot's reversible-by-design workflow.
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or workflow
+      description: What file-organization problem are you trying to solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: Describe the smallest useful change.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Classification
+        - Planning
+        - Organize / rollback
+        - Manifest / undo
+        - Hashing
+        - CLI
+        - Packaging
+        - Tests / CI
+        - Documentation
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: safety
+    attributes:
+      label: Data-safety considerations
+      description: How should the change avoid unintended overwrite, deletion, or irreversible behavior?
+    validations:
+      required: true
